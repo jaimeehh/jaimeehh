@@ -6,3 +6,4 @@
 - 📫 Puedes contactarme para discutir ideas, colaborar o simplemente charlar sobre IA y salud.
 
 ¡Gracias por pasar por aquí y no dudes en explorar mis repositorios!
+![image](https://github.com/user-attachments/assets/efb4b6ca-82af-42b6-ba79-03e6835ea6d8)
